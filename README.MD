@@ -93,19 +93,24 @@ The game ends when:
 3. Your chicken hits one of its friends
 
 ### How to operate the game
-1. Finger controls:<br>
- <text align-text="center">・Put your index finger straight up for up motion:</text><br>
+1. Finger controls:
+<ul>
+<li>
+ <text align-text="center">Put your index finger straight up for up motion:</text><br>
  <img src="resources/readme/up.jpg" alt="finger up" width="250">
- 
- <text align-text="center">・Put your index finger down for down motion</text><br>
+</li>
+<li>
+ <text align-text="center">Put your index finger down for down motion</text><br>
  <img src="resources/readme/down.jpg" alt="finger down" width="250">
-
- <text align-text="center">・Tilt your index finger towards the left for left motion</text><br>
+</li>
+<li>
+ <text align-text="center">Tilt your index finger towards the left for left motion</text><br>
  <img src="resources/readme/left.jpg" alt="finger left" width="250">
-
- <text align-text="center">・Tilt your index finger towards the right for right motion</text><br>
+</li>
+<li>
+ <text align-text="center">Tilt your index finger towards the right for right motion</text><br>
  <img src="resources/readme/right.jpg" alt="finger right" width="250">
-
+</li>
 2. Keyboard controls:
 Use the "up", "down", "left", "right" keys to play
 
