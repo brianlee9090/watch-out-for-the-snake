@@ -94,18 +94,18 @@ The game ends when:
 
 ### How to operate the game
 1. Finger controls:
-
- <img src="resources/readme/up.jpg" alt="finger up" width="250" align="center">
- <text align="center">・Put your index finger straight up for up motion:</text>
+ <text>・Put your index finger straight up for up motion:</text>
+ <img src="resources/readme/up.jpg" alt="finger up" width="250" display="block" margin-left="auto" margin-right="auto">
  
- <img src="resources/readme/down.jpg" alt="finger down" width="250" align="center">
-  <text align="center">・Put your index finger down for down motion:</text>
+ <text align-text="center">・Put your index finger down for down motion</text>
+ <img src="resources/readme/down.jpg" alt="finger down" width="250" display="block" margin-left="auto" margin-right="auto">
 
- <img src="resources/readme/left.jpg" alt="finger left" width="250" align="center">
- <text align="center">・Tilt your index finger towards the left for left motion:</text>
- 
- <img src="resources/readme/left.jpg" alt="finger right" width="250" align="center">
- <text align="center">・Tilt your index finger towards the right for right motion:</text>
+ <text align-text="center">・Tilt your index finger towards the left for left motion</text>
+ <img src="resources/readme/left.jpg" alt="finger left" width="250" display="block" margin-left="auto" margin-right="auto">
+
+ <text align-text="center">・Tilt your index finger towards the right for right motion</text>
+ <img src="resources/readme/right.jpg" alt="finger right" width="250" display="block" margin-left="auto" margin-right="auto">
+
 
 2. Keyboard controls:
 Use the "up", "down", "left", "right" keys to play
