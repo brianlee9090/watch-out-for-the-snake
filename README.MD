@@ -12,11 +12,9 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-<div align="center">
 <img src="resources/readme/screenshot.png" alt="screenshot" width="400">
 Do you like Snake? You sure will enjoy this game. This readme will walk you through how to install, how to play the classic game with a fun twist!
 <p align="right">(<a href="#top">back to top</a>)</p>
-</div>
 
 ### Built With
 
