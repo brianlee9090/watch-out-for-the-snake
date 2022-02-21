@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/brianlee9090/cc24-Polyglottal">
+  <a href="https://github.com/brianlee9090/watch-out-for-the-snake">
     <img src="resources/Chicken-right.jpeg" alt="Chicken" width="40" height="40">
     <img src="resources/Cookie.png" alt="Cookie" width="40" height="40">
     <img src="resources/Snake.jpeg" alt="Snake" width="40" height="40">
@@ -25,8 +25,6 @@ Do you like Snake? You sure will enjoy this game. This readme will walk you thro
 * [Pynput](https://pynput.readthedocs.io)
 
 
-
-
 <!-- GETTING STARTED -->
 ## Getting Started
 
@@ -40,7 +38,7 @@ Please have Python 3(https://www.python.org/downloads/) and pip(https://packagin
 
 1. Clone the repo:
    ```sh
-   git clone https://github.com/brianlee9090/cc24-Polyglottal.git
+   git clone https://github.com/brianlee9090/watch-out-for-the-snake.git
    ```
 2. pip install the used libraries:
 * [Pygame](https://www.pygame.org/)
@@ -116,7 +114,6 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 
 
-
 <!-- CONTRIBUTING -->
 ## Contributing
 
@@ -138,9 +135,9 @@ Don't forget to give the project a star! Thanks again!
 <!-- CONTACT -->
 ## Contact
 
-Brian Lee - [@BBC0de](https://twitter.com/twitter_handle) - email@email_client.com
+Brian Lee - [linkedIn](https://www.linkedin.com/in/brianlee9090/)
 
-Project Link: [https://github.com/brianlee9090/cc24-Polyglottal](https://github.com/brianlee9090/cc24-Polyglottal)
+Project Link: [https://github.com/brianlee9090/watch-out-for-the-snake](https://github.com/brianlee9090/watch-out-for-the-snake)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -148,16 +145,11 @@ Project Link: [https://github.com/brianlee9090/cc24-Polyglottal](https://github.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/brianlee9090/cc24-Polyglottal.svg?style=for-the-badge
-[contributors-url]: https://github.com/brianlee9090/cc24-Polyglottal/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/brianlee9090/cc24-Polyglottal.svg?style=for-the-badge
-[forks-url]: https://github.com/brianlee9090/cc24-Polyglottal/network/members
-[stars-shield]: https://img.shields.io/github/stars/brianlee9090/cc24-Polyglottal.svg?style=for-the-badge
-[stars-url]: https://github.com/brianlee9090/cc24-Polyglottal/stargazers
-[issues-shield]: https://img.shields.io/github/issues/brianlee9090/cc24-Polyglottal.svg?style=for-the-badge
-[issues-url]: https://github.com/brianlee9090/cc24-Polyglottal/issues
-[license-shield]: https://img.shields.io/github/license/brianlee9090/cc24-Polyglottal.svg?style=for-the-badge
-[license-url]: https://github.com/brianlee9090/cc24-Polyglottal/blob/master/LICENSE.txt
+[forks-shield]: https://img.shields.io/github/forks/brianlee9090/watch-out-for-the-snake.svg?style=for-the-badge
+[forks-url]: https://github.com/brianlee9090/watch-out-for-the-snake/network/members
+[stars-shield]: https://img.shields.io/github/stars/brianlee9090/watch-out-for-the-snake.svg?style=for-the-badge
+[stars-url]: https://github.com/brianlee9090/watch-out-for-the-snake/stargazers
+
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/brianlee9090
 [product-screenshot]: resources/screenshot.png
