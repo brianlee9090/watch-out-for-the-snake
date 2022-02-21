@@ -21,6 +21,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+<img scr="resources/screenshot.png" width="400" align="center">
 [![Watch Out For The Snake Screenshot][product-screenshot]](https://github.com/brianlee9090/cc24-Polyglottal)
 
 Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `brianlee9090`, `cc24-Polyglottal`, `twitter_handle`, `brianlee9090`, `email_client`, `email`, `Watch Out For The Snake`, `project_description`
@@ -43,16 +44,11 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+Please have Python 3(https://www.python.org/downloads/) and pip(https://packaging.python.org/en/latest/key_projects/#pip) before the below installation.
 
 ### Installation
 
@@ -100,17 +96,18 @@ The game ends when:
 1. Finger controls:
 
 <ul>
- <li>Put your index finger straight up for up motion:</li>
- <img scr="./resources/readme/up.jpg" width="250">
 
- <li>Put your index finger down for down motion:</li>
- <img scr="./resources/readme/down.jpg" width="250">
+ <img scr="./resources/readme/up.jpg" width="250" align="center">
+ <li align="center">Put your index finger straight up for up motion:</li>
+ 
+ <img scr="./resources/readme/down.jpg" width="250" align="center">
+  <li align="center">Put your index finger down for down motion:</li>
 
- <li>Tilt your index finger towards the left for left motion:</li>
- <img scr="./resources/readme/left.jpg" width="250">
-
- <li>Tilt your index finger towards the right for right motion:</li>
- <img scr="./resources/readme/left.jpg" width="250">
+ <img scr="./resources/readme/left.jpg" width="250" align="center">
+ <li align="center">Tilt your index finger towards the left for left motion:</li>
+ 
+ <img scr="./resources/readme/left.jpg" width="250" align="center">
+ <li align="center">Tilt your index finger towards the right for right motion:</li>
 
 2. Keyboard controls:
 Use the "up", "down", "left", "right" keys to play
@@ -174,6 +171,6 @@ Project Link: [https://github.com/brianlee9090/cc24-Polyglottal](https://github.
 [license-url]: https://github.com/brianlee9090/cc24-Polyglottal/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/brianlee9090
-[product-screenshot]: ./resources/screenshot.png
+[product-screenshot]: resources/screenshot.png
 
 
