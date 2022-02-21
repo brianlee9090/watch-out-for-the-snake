@@ -2,32 +2,20 @@
 <br />
 <div align="center">
   <a href="https://github.com/brianlee9090/cc24-Polyglottal">
-    <img src="resources/Chicken-left.jpeg" alt="Chicken" width="80" height="80">
-    <img src="resources/Snake.jpeg" alt="Snake" width="80" height="80">
+    <img src="resources/Chicken-right.jpeg" alt="Chicken" width="40" height="40">
+    <img src="resources/Cookie.png" alt="Cookie" width="40" height="40">
+    <img src="resources/Snake.jpeg" alt="Snake" width="40" height="40">
   </a>
 
 <h3 align="center">Watch Out For The Snake</h3>
-
-  <p align="center">
-    project_description
-    <br />
-    <a href="https://github.com/brianlee9090/cc24-Polyglottal"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/brianlee9090/cc24-Polyglottal">View Demo</a>
-  </p>
 </div>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-<img src="resources/readme/screenshot.png" alt="screenshot" width="350" align="center">
-[![Watch Out For The Snake Screenshot][product-screenshot]](https://github.com/brianlee9090/cc24-Polyglottal)
-
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `brianlee9090`, `cc24-Polyglottal`, `twitter_handle`, `brianlee9090`, `email_client`, `email`, `Watch Out For The Snake`, `project_description`
-
+<div align="center">
+<img src="resources/readme/screenshot.png" alt="screenshot" width="4==" >
+Do you like Snake? You sure will enjoy this game. This readme will walk you through how to install, how to play the classic game with a fun twist!
 <p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 ### Built With
@@ -111,6 +99,7 @@ The game ends when:
  <text align-text="center">Tilt your index finger towards the right for right motion</text><br>
  <img src="resources/readme/right.jpg" alt="finger right" width="250">
 </li>
+<br>
 2. Keyboard controls:
 Use the "up", "down", "left", "right" keys to play
 
