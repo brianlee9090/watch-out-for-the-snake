@@ -98,19 +98,21 @@ The game ends when:
 
 ### How to operate the game
 1. Finger controls:
-Put your index finger straight up for up motion:  
-![up](./resources/readme/up.jpg =250x)
 
-Put your index finger down for down motion:  
-![down](./resources/readme/down.jpg =250x)
+<ul>
+ <li>Put your index finger straight up for up motion:</li>
+ <img scr="./resources/readme/up.jpg" width="250">
 
-Tilt your index finger towards the left for left motion:  
-![left](./resources/readme/left.jpg =250x)
+ <li>Put your index finger down for down motion:</li>
+ <img scr="./resources/readme/down.jpg" width="250">
 
-Tilt your index finger towards the right for right motion:  
-![left](./resources/readme/right.jpg =250x)
+ <li>Tilt your index finger towards the left for left motion:</li>
+ <img scr="./resources/readme/left.jpg" width="250">
 
-2. About keyboard controls:
+ <li>Tilt your index finger towards the right for right motion:</li>
+ <img scr="./resources/readme/left.jpg" width="250">
+
+2. Keyboard controls:
 Use the "up", "down", "left", "right" keys to play
 
 <p align="right">(<a href="#top">back to top</a>)</p>
