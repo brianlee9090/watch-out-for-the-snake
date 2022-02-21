@@ -21,7 +21,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img scr="resources/readme/screenshot.png" width="350" align="center">
+<img src="resources/readme/screenshot.png" alt="screenshot" width="350" align="center">
 [![Watch Out For The Snake Screenshot][product-screenshot]](https://github.com/brianlee9090/cc24-Polyglottal)
 
 Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `brianlee9090`, `cc24-Polyglottal`, `twitter_handle`, `brianlee9090`, `email_client`, `email`, `Watch Out For The Snake`, `project_description`
@@ -95,16 +95,16 @@ The game ends when:
 ### How to operate the game
 1. Finger controls:
 
- <img scr="resources/readme/up.jpg" width="250" align="center">
+ <img src="resources/readme/up.jpg" alt="finger up" width="250" align="center">
  <text align="center">・Put your index finger straight up for up motion:</text>
  
- <img scr="resources/readme/down.jpg" width="250" align="center">
+ <img src="resources/readme/down.jpg" alt="finger down" width="250" align="center">
   <text align="center">・Put your index finger down for down motion:</text>
 
- <img scr="resources/readme/left.jpg" width="250" align="center">
+ <img src="resources/readme/left.jpg" alt="finger left" width="250" align="center">
  <text align="center">・Tilt your index finger towards the left for left motion:</text>
  
- <img scr="resources/readme/left.jpg" width="250" align="center">
+ <img src="resources/readme/left.jpg" alt="finger right" width="250" align="center">
  <text align="center">・Tilt your index finger towards the right for right motion:</text>
 
 2. Keyboard controls:
