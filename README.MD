@@ -40,7 +40,7 @@ Please have Python 3(https://www.python.org/downloads/) and pip(https://packagin
    ```sh
    git clone https://github.com/brianlee9090/watch-out-for-the-snake.git
    ```
-2. pip install the used libraries:
+2. pip install the following libraries:
 * [Pygame](https://www.pygame.org/)
 * [MediaPipe](https://mediapipe.dev)
 * [Numpy](https://numpy.org)
@@ -54,14 +54,14 @@ Please have Python 3(https://www.python.org/downloads/) and pip(https://packagin
 
 ### How to start the game
 1. To start the game with enter and you can play with either:  
-I. your keyboard (make sure your hands are outside the frame)  
-II. your right hand (make sure your right hand is in the frame)  
+  I. your keyboard (make sure your hands are outside the frame)  
+  II. your right hand (make sure your right hand is in the frame)  
 
 2. Scripts to run:
-I. To play the game with your keyboard please step this step and go to step II.
-   To play the game with your finger, %run ./hand.py.
-   Make sure the both programs are running.
-II. %run ./main.py to start the game
+  I. **To play the game with your keyboard please step this step and go to step II.**
+     To play the game with your finger, %run ./hand.py.
+     Make sure the both programs are running.
+  II. %run ./main.py to start the game
 
 ### How to play
 You are the <text color="green" font-weight="bold">chicken</text> and your goal is to eat as many <text color="blue" font-weight="bold">cookies</text> as possible while avoiding the <text color="red" font-weight="bold">snake</text>. 
