@@ -13,7 +13,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 <img src="resources/readme/screenshot.png" alt="screenshot" width="400">
-Do you like Snake? You sure will enjoy this game. This readme will walk you through how to install, how to play the classic game with a fun twist!
+Do you like Snake? You sure will enjoy this game. <br>
+This readme will walk you through how to install, how to play the classic game with a fun twist!
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Built With
@@ -58,10 +59,10 @@ Please have Python 3(https://www.python.org/downloads/) and pip(https://packagin
   II. your right hand (make sure your right hand is in the frame)  
 
 2. Scripts to run:
-  I. **To play the game with your keyboard please step this step and go to step II.**
-     To play the game with your finger, %run ./hand.py.
+  I. <text font-weight="bold">To play the game with your keyboard please step this step and go to step II.</text>
+     To play the game with your finger, `%run ./hand.py`.
      Make sure the both programs are running.
-  II. %run ./main.py to start the game
+  II. `%run ./main.py` to start the game
 
 ### How to play
 You are the <text color="green" font-weight="bold">chicken</text> and your goal is to eat as many <text color="blue" font-weight="bold">cookies</text> as possible while avoiding the <text color="red" font-weight="bold">snake</text>. 
