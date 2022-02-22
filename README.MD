@@ -58,11 +58,11 @@ Please have Python 3(https://www.python.org/downloads/) and pip(https://packagin
   I. your keyboard (make sure your hands are outside the frame)  
   II. your right hand (make sure your right hand is in the frame)  
 
-2. Scripts to run:
-  I. <text font-weight="bold">To play the game with your keyboard please step this step and go to step II.</text>
-     To play the game with your finger, `%run ./hand.py`.
-     Make sure the both programs are running.
-  II. `%run ./main.py` to start the game
+2. Scripts to run: <br>
+  I. <text font-weight="bold">To play the game with your keyboard please step this step and go to step II.</text> <br>
+     To play the game with your finger, `%run ./hand.py`. <br>
+     Make sure the both programs are running.<br>
+  II. `%run ./main.py` to start the game<br>
 
 ### How to play
 You are the <text color="green" font-weight="bold">chicken</text> and your goal is to eat as many <text color="blue" font-weight="bold">cookies</text> as possible while avoiding the <text color="red" font-weight="bold">snake</text>. 
