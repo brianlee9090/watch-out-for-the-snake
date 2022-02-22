@@ -55,19 +55,15 @@ Please have Python 3(https://www.python.org/downloads/) and pip(https://packagin
 
 ### How to start the game
 <ol type="1">
-  <li>To start the game with enter and you can play with either:</li>
+  <li>You can play this game with either:</li>
   <ol type="I">
-    <li>your keyboard (make sure your hands are outside the frame)</li>
+    <li>your keyboard</li>
     <li>your right hand (make sure your right hand is in the frame)</li>
   </ol>
   <li>Scripts to run:</li>
-  <ol type="I">
-  <li><text font-weight="bold">To play the game with your keyboard please step this step and go to step II.</text> <br>
-     To play the game with your finger, `%run ./hand.py`. 
-     Make sure the both programs are running.<br></li>
-    <li><text>`%run ./main.py` to start the game</text></li>
-  </ol>
 </ol>
+To play by motion sensor/fingers, `%run ./hand.py` first (skip this step if you want to play with your keyboard). <br>
+Otherwise, to play by your keyboard, `%run ./main.py` to start the game.
 
 ### How to play
 You are the <text color="green" font-weight="bold">chicken</text> and your goal is to eat as many <text color="blue" font-weight="bold">cookies</text> as possible while avoiding the <text color="red" font-weight="bold">snake</text>. 
